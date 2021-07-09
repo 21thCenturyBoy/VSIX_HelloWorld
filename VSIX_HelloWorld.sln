@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelMenu", "TopLevelMen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReusableButtons", "ReusableButtons\ReusableButtons.csproj", "{A00E646F-DF99-4F8B-A879-8C93BE34BE2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyBindingButton", "KeyBindingButton\KeyBindingButton.csproj", "{8B364A3A-05D7-426B-8BF9-6740AC67DB56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A00E646F-DF99-4F8B-A879-8C93BE34BE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A00E646F-DF99-4F8B-A879-8C93BE34BE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A00E646F-DF99-4F8B-A879-8C93BE34BE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B364A3A-05D7-426B-8BF9-6740AC67DB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B364A3A-05D7-426B-8BF9-6740AC67DB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B364A3A-05D7-426B-8BF9-6740AC67DB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B364A3A-05D7-426B-8BF9-6740AC67DB56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
