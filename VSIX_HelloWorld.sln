@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyBindingButton", "KeyBind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuText", "MenuText\MenuText.csproj", "{DC5C444B-5B3D-4742-BAED-0C3552FB0684}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWindow", "FirstWindow\FirstWindow.csproj", "{3DA99B75-9C45-4C3B-8470-DDECC2C5CF61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstToolWin", "FirstToolWin\FirstToolWin.csproj", "{9CE3B313-3514-480C-B9A6-1D230E838BE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{DC5C444B-5B3D-4742-BAED-0C3552FB0684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC5C444B-5B3D-4742-BAED-0C3552FB0684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC5C444B-5B3D-4742-BAED-0C3552FB0684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA99B75-9C45-4C3B-8470-DDECC2C5CF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA99B75-9C45-4C3B-8470-DDECC2C5CF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA99B75-9C45-4C3B-8470-DDECC2C5CF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA99B75-9C45-4C3B-8470-DDECC2C5CF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE3B313-3514-480C-B9A6-1D230E838BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE3B313-3514-480C-B9A6-1D230E838BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE3B313-3514-480C-B9A6-1D230E838BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE3B313-3514-480C-B9A6-1D230E838BE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
