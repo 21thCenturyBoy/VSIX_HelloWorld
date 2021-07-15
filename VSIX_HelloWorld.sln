@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWindow", "FirstWindow\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstToolWin", "FirstToolWin\FirstToolWin.csproj", "{9CE3B313-3514-480C-B9A6-1D230E838BE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiInstanceToolWindow", "MultiInstanceToolWindow\MultiInstanceToolWindow.csproj", "{8C763A8F-1700-4708-9B3B-8091501142A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{9CE3B313-3514-480C-B9A6-1D230E838BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CE3B313-3514-480C-B9A6-1D230E838BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CE3B313-3514-480C-B9A6-1D230E838BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C763A8F-1700-4708-9B3B-8091501142A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C763A8F-1700-4708-9B3B-8091501142A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C763A8F-1700-4708-9B3B-8091501142A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C763A8F-1700-4708-9B3B-8091501142A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
