@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstToolWin", "FirstToolWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiInstanceToolWindow", "MultiInstanceToolWindow\MultiInstanceToolWindow.csproj", "{8C763A8F-1700-4708-9B3B-8091501142A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicToolWindow", "DynamicToolWindow\DynamicToolWindow.csproj", "{8D1B2E74-ADA3-46EB-914C-1D494DB8534C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{8C763A8F-1700-4708-9B3B-8091501142A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C763A8F-1700-4708-9B3B-8091501142A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C763A8F-1700-4708-9B3B-8091501142A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1B2E74-ADA3-46EB-914C-1D494DB8534C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1B2E74-ADA3-46EB-914C-1D494DB8534C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1B2E74-ADA3-46EB-914C-1D494DB8534C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1B2E74-ADA3-46EB-914C-1D494DB8534C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
